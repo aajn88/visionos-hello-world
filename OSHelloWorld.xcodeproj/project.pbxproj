@@ -13,8 +13,7 @@
 		A90643672B77E553002058DF /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A90643662B77E553002058DF /* ImmersiveView.swift */; };
 		A90643692B77E554002058DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A90643682B77E554002058DF /* Assets.xcassets */; };
 		A906436C2B77E554002058DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A906436B2B77E554002058DF /* Preview Assets.xcassets */; };
-		A90643742B77E58E002058DF /* Wooden_barrel.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A90643732B77E58E002058DF /* Wooden_barrel.usdz */; };
-		A90643762B77E7C2002058DF /* Apple_Reduced.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A90643752B77E7C2002058DF /* Apple_Reduced.usdz */; };
+		A95EC21D2B780073009EC975 /* Apple_Reduced.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A95EC21C2B780073009EC975 /* Apple_Reduced.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +25,7 @@
 		A90643682B77E554002058DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A906436B2B77E554002058DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A906436D2B77E554002058DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A90643732B77E58E002058DF /* Wooden_barrel.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = Wooden_barrel.usdz; path = ../../../../Downloads/Wooden_barrel.usdz; sourceTree = "<group>"; };
-		A90643752B77E7C2002058DF /* Apple_Reduced.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = Apple_Reduced.usdz; path = ../../../../Downloads/Apple_Reduced.usdz; sourceTree = "<group>"; };
+		A95EC21C2B780073009EC975 /* Apple_Reduced.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Apple_Reduced.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,8 +65,7 @@
 				A90643662B77E553002058DF /* ImmersiveView.swift */,
 				A90643682B77E554002058DF /* Assets.xcassets */,
 				A906436D2B77E554002058DF /* Info.plist */,
-				A90643732B77E58E002058DF /* Wooden_barrel.usdz */,
-				A90643752B77E7C2002058DF /* Apple_Reduced.usdz */,
+				A95EC21C2B780073009EC975 /* Apple_Reduced.usdz */,
 				A906436A2B77E554002058DF /* Preview Content */,
 			);
 			path = OSHelloWorld;
@@ -153,8 +150,7 @@
 			files = (
 				A906436C2B77E554002058DF /* Preview Assets.xcassets in Resources */,
 				A90643692B77E554002058DF /* Assets.xcassets in Resources */,
-				A90643742B77E58E002058DF /* Wooden_barrel.usdz in Resources */,
-				A90643762B77E7C2002058DF /* Apple_Reduced.usdz in Resources */,
+				A95EC21D2B780073009EC975 /* Apple_Reduced.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
