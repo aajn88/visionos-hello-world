@@ -16,7 +16,6 @@ struct ImmersiveView: View {
             floor.generateCollisionShapes(recursive: false)
             floor.components[PhysicsBodyComponent.self] = .init(
                 massProperties: .default,
-                material: .generate(staticFriction: 0.8, dynamicFriction: 0.5, restitution: 0.1),
                 mode: .static
             )
             
