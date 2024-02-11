@@ -9,8 +9,7 @@
 /* Begin PBXBuildFile section */
 		A90643612B77E553002058DF /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = A90643602B77E553002058DF /* RealityKitContent */; };
 		A90643632B77E553002058DF /* OSHelloWorldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A90643622B77E553002058DF /* OSHelloWorldApp.swift */; };
-		A90643652B77E553002058DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A90643642B77E553002058DF /* ContentView.swift */; };
-		A90643672B77E553002058DF /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A90643662B77E553002058DF /* ImmersiveView.swift */; };
+		A90643672B77E553002058DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A90643662B77E553002058DF /* ContentView.swift */; };
 		A90643692B77E554002058DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A90643682B77E554002058DF /* Assets.xcassets */; };
 		A906436C2B77E554002058DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A906436B2B77E554002058DF /* Preview Assets.xcassets */; };
 		A95EC21D2B780073009EC975 /* Apple_Reduced.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A95EC21C2B780073009EC975 /* Apple_Reduced.usdz */; };
@@ -20,8 +19,7 @@
 		A906435B2B77E553002058DF /* OSHelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OSHelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A906435F2B77E553002058DF /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		A90643622B77E553002058DF /* OSHelloWorldApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OSHelloWorldApp.swift; sourceTree = "<group>"; };
-		A90643642B77E553002058DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A90643662B77E553002058DF /* ImmersiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImmersiveView.swift; sourceTree = "<group>"; };
+		A90643662B77E553002058DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A90643682B77E554002058DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A906436B2B77E554002058DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A906436D2B77E554002058DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -61,8 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A90643622B77E553002058DF /* OSHelloWorldApp.swift */,
-				A90643642B77E553002058DF /* ContentView.swift */,
-				A90643662B77E553002058DF /* ImmersiveView.swift */,
+				A90643662B77E553002058DF /* ContentView.swift */,
 				A90643682B77E554002058DF /* Assets.xcassets */,
 				A906436D2B77E554002058DF /* Info.plist */,
 				A95EC21C2B780073009EC975 /* Apple_Reduced.usdz */,
@@ -161,9 +158,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A90643652B77E553002058DF /* ContentView.swift in Sources */,
 				A90643632B77E553002058DF /* OSHelloWorldApp.swift in Sources */,
-				A90643672B77E553002058DF /* ImmersiveView.swift in Sources */,
+				A90643672B77E553002058DF /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
